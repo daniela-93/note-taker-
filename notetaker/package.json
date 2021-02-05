@@ -11,5 +11,9 @@
     "start": "node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^7.3.3"
+  }
 }
