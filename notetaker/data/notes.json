@@ -1,45 +1,33 @@
 {
-    "notesArray": [
+    "notes": [
     {
     "id": "0",
     "noteTitle": "Call Bank on Friday",
-    "noteBody": [
-    "Call bank on Friday"
-    ]
+    "noteBody": "Call bank on Friday"
     },
     {
     "id": "1",
     "noteTitle": "Reschedule delivery",
-    "noteBody": [ 
-    "Resechedule delivery"
+    "noteBody": "Resechedule delivery"
 
-    
-    ]
     },
     {
     "id": "2",
     "noteTitle": "Finish payroll",
-    "noteBody": [
-    "finish payroll this friday"
-    ]
+    "noteBody": "finish payroll this friday"
+    
     },
     {
     "id": "3",
     "noteTitle": "Check in with clients",
-    "noteBody": [
-    "Check in with clients"
-    ]
+    "noteBody": "Check in with clients"
     },
     {
+
     "id": "4",
     "noteTitle": "Client lunch on Friday",
-    "noteBody": [
+    "noteBody": 
     "Client lunch on Friday"
-    ]
-    },
-    {
-   
-  
     }
     ]
     }
