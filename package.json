@@ -1,0 +1,28 @@
+{
+  "name": "notetaker",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniela-93/note-taker-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^7.3.3",
+    "serve": "^11.3.2"
+  },
+  "bugs": {
+    "url": "https://github.com/daniela-93/note-taker/issues"
+  },
+  "homepage": "https://github.com/daniela-93/note-taker#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
