@@ -2,32 +2,26 @@
     "notes": [
     {
     "id": "0",
-    "noteTitle": "Call Bank on Friday",
-    "noteBody": "Call bank on Friday"
+    "noteTitle": "",
+    "noteBody": ""
     },
     {
     "id": "1",
-    "noteTitle": "Reschedule delivery",
-    "noteBody": "Resechedule delivery"
+    "noteTitle": " ",
+    "noteBody": " "
 
     },
     {
     "id": "2",
-    "noteTitle": "Finish payroll",
-    "noteBody": "finish payroll this friday"
+    "noteTitle": "",
+    "noteBody": ""
     
     },
     {
     "id": "3",
-    "noteTitle": "Check in with clients",
-    "noteBody": "Check in with clients"
-    },
-    {
-
-    "id": "4",
-    "noteTitle": "Client lunch on Friday",
-    "noteBody": 
-    "Client lunch on Friday"
+    "noteTitle": "",
+    "noteBody": ""
+ 
     }
     ]
     }

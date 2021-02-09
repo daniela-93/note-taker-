@@ -1,5 +1,6 @@
 const router = require("express").Router();
 
+const note = require("../data/notes.json")
 
 router.get('/notes', (req, res) => {
   let results = animals;
